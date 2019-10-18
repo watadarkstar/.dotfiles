@@ -1,0 +1,4 @@
+# This is Git's per-user configuration file.
+# it goes in the following directory  ~/.gitconfig
+[alias]
+ 	s = status
